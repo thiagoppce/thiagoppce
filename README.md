@@ -1,13 +1,13 @@
 - 👋 Oi, eu sou o @thiagoppce
 - 👀 Sou entusiasta da Tecnologia e BI
 - 🌱 Atualmente estou aprendendo **Pyhton, Data Analytics and Business Intelligence.**
-- 🌱 E sou estudante de ADS e Big Data.
+- 👨‍🎓 E sou estudante de __ADS e Big Data.__
 - 💞️ I’m looking to collaborate on BI projects.
 - 📫 Como me encontrar thiagoppce@hotmail.com
-- 📫 Esse é meu [Instagram](https://instagram.com/thiagoppce)
-- [Acesse meu CV AQUI](https://github.com/thiagoppce/thiagoppce/files/10512472/CV.Thiago.Pereira.BI.2.pdf)
+- 🖖 Esse é meu [Instagram](https://instagram.com/thiagoppce)
+- 📤 [Acesse meu CV AQUI](https://github.com/thiagoppce/thiagoppce/files/10512472/CV.Thiago.Pereira.BI.2.pdf)
 
--  Abaixo alguns dos meus Dashboards desenvolvidos:
+- 🖨️ Abaixo alguns dos meus Dashboards desenvolvidos:
 
 ![Projetos de Dados - Power BI](https://user-images.githubusercontent.com/98354325/214922983-8fa2d6d1-8b0f-465b-973c-554983b8a4a5.png)
 
