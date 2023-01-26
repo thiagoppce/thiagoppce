@@ -1,6 +1,7 @@
 - 👋 Oi, eu sou o @thiagoppce
 - 👀 Sou entusiasta da Tecnologia e BI
 - 🌱 Atualmente estou aprendendo **Pyhton, Data Analytics and Business Intelligence.**
+- 🌱 E sou estudante de ADS e Big Data.
 - 💞️ I’m looking to collaborate on BI projects.
 - 📫 Como me encontrar thiagoppce@hotmail.com
 - 📫 Esse é meu [Instagram](https://instagram.com/thiagoppce)
